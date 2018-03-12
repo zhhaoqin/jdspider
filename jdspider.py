@@ -67,3 +67,6 @@ def main():
     print('本次爬取共计用时：%s s' % time)
 
     save_to_csv(results)
+    
+    
+main ()
